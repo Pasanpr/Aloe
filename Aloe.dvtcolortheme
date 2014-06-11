@@ -45,7 +45,7 @@
 		<key>xcode.syntax.attribute</key>
 		<string>0.3759 0.433769 0.497267 1</string>
 		<key>xcode.syntax.character</key>
-		<string>1 0 0.501961 1</string>
+		<string>0.544252 0.459137 0.722805 1</string>
 		<key>xcode.syntax.comment</key>
 		<string>0.333 0.333 0.333 1</string>
 		<key>xcode.syntax.comment.doc</key>
@@ -87,7 +87,7 @@
 		<key>xcode.syntax.string</key>
 		<string>0.900542 0.258088 0.283617 1</string>
 		<key>xcode.syntax.url</key>
-		<string>0 0.501961 0.25098 1</string>
+		<string>0.544252 0.459137 0.722805 1</string>
 	</dict>
 	<key>DVTSourceTextSyntaxFonts</key>
 	<dict>
